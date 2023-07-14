@@ -8,9 +8,8 @@
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></p>
 
 <!--Status e Frequencia no GitHub-->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vithono&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithono&show_icons=true&theme=merko)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vithono&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <br>
 </div>
