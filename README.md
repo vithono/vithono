@@ -11,8 +11,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithono&show_icons=true&theme=merko)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vithono&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=vithono&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
-
 <br>
 <br>
 </div>
