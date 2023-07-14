@@ -9,7 +9,9 @@
 
 <!--Status e Frequencia no GitHub-->
 <img  alt="Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=vithono&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8&icon_color=#f9bc2f"/>
-<img  alt="TopLangs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithono&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true&line_height=20&langs_count=8icon_color=#f9bc2f"/>
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vithono&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 </div>
