@@ -13,7 +13,7 @@
 <br>
 <br>
 </div>
-✯ Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código. – Ken Thompson
+✯ Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código. – Ken Thompson <br>
 ✯ A genialidade é 1% inspiração e 99% transpiração. – Thomas Edson
 <br>
 <br>
