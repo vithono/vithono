@@ -13,8 +13,7 @@
 <br>
 <br>
 </div>
-✯ Tentando me tornar uma boa programadora! <br>
-✯ Sofrendo com Back-End
+✯ "Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código." – Ken Thompson
 <br>
 <br>
 <div align="center">
