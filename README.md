@@ -1,6 +1,6 @@
 # Olá, me chamo Vitória! 
 ## Bem vindo ao meu perfil GitHub 👋
-✯ Estou cursando o terceiro ano do curso técnico de Desenvolvimento de Sistemas <br>
+✯ Técnica em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG<br>
 ✯ Aqui estão algumas linguagens que eu aprendi durante este tempo 
 <br>
 <br>
